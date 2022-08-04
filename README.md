@@ -1,4 +1,4 @@
-# polyscan version 1.0
+# polyscan 1.0
 
 Program to scan for specified polymorphisms in aligned sample sequences.
 
