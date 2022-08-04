@@ -1,0 +1,22 @@
+poly_group	poly_name	poly_desc	poly_level	poly_gene	poly_type	poly_refval	poly_refpos	poly_altval
+HBsAg	W172*	W172*	aa	Surface_S	SNP	W	172	*
+HBsAg	W182*	W182*	aa	Surface_S	SNP	W	182	*
+HBsAg	L216*	L216*	aa	Surface_S	SNP	L	216	*
+HBsAg	PreS2delta38-55	PreS2delta38-55	aa	Surface_preS1	DELat	-	38-55	-
+HBsAg	OtherPreS1	OtherPreS1	aa	Surface_preS1	DELany	-	-	-
+HBsAg	OtherSdeletion	OtherSdeletion	aa	Surface_S	DELany	-	-	-
+Pre-Core	Q2*	Q2*	aa	PreCore	SNP	Q	2	*
+Pre-Core	S13T	S13T	aa	PreCore	SNP	S	13	T
+Pre-Core	W28*	W28* (G1896A)	aa	PreCore	SNP	W	28	*
+Pre-Core	G29D	G29D (G1899A)	aa	PreCore	SNP	G	29	D
+BCP	I127T	I127T (T1753C in BCP)	aa	X	SNP	I	127	T
+BCP	K130M	K130M (A1762T in BCP)	aa	X	SNP	K	130	M
+BCP	V131I	V131I (G1764A in BCP)	aa	X	SNP	V	131	I
+BCP	F132Y/I/R	F132Y/I/R (C1766T in BCP)	aa	X	SNP	F	132	Y,I,R
+BCP	T1768A	T1768A	nt	PreCore	SNP	T	1768	A
+BCP	A1762T/G1764A	A1762T	nt	PreCore	SNP	A	1762	T
+BCP	A1762T/G1764A	G1764A	nt	PreCore	SNP	G	1764	A
+BCP	T1753C/A1762T/G1764A	T1753C	nt	PreCore	SNP	T	1753	C
+BCP	T1753C/A1762T/G1764A	A1762T	nt	PreCore	SNP	A	1762	T
+BCP	T1753C/A1762T/G1764A	G1764A	nt	PreCore	SNP	G	1764	A
+BCP	Del1762-1764	Del1762-1764	nt	PreCore	DELat	-	1762-1764	A

@@ -1,0 +1,3 @@
+Warning: Polytable SNP refval disagrees with refprot FASTA (Pol_RT, I163V): table=I fasta=V
+Warning: Polytable SNP refval disagrees with refprot FASTA (Pol_RT, L217R): table=L fasta=R
+Warning: Polytable SNP refval disagrees with refprot FASTA (Pol_RT, L299G): table=L fasta=P
