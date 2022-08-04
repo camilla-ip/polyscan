@@ -1,7 +1,8 @@
 # Camilla Ip's Public Software
 
-polyscan
-- Scan samples for specified polymorphisms.
-- Publication: Full-length deep sequencing of South African 
+__polyscan__
+- Scan for specified polymorphisms in aligned sample sequences.
+- Citation: Maponga _et al._ Full-length deep sequencing of South African 
 Hepatitis B Virus (HBV) reveals increased diversity 
-and frequent deletions in adults with hepatocellular carcinoma (HCC). Maponga _et al._ [in prep, 2022]
+and frequent deletions in adults with hepatocellular carcinoma (HCC). [in prep, 2022]
+
