@@ -67,6 +67,8 @@ run_examples.sh
 
 <h2>DATA FORMATS</h2>
 
+In the following explanations, character sequence ' | ' (space pipe space) is used to show where the 'tab' character is placed in tab-separated-variable (TSV) file examples.
+
 <h3>polymorphism-list.tsv</h3>
 
 A TSV file 1 header row, with columns:
@@ -90,7 +92,11 @@ where
 
 A TSV file with 1 header row, with columns:
 ```
-dataid | samplename_clin_final | Study_number | Diagnosis | HCC
+dataid | samplename_clin_final | Study_number | Diagnosis | HCc
+```
+
+Example row:
+```
 wtchgD00007502 | B1-1_11611878_SV | 11611878 (SV) | Hcc | 1
 ```
 
@@ -149,7 +155,7 @@ The program prints the following warning:
 Warning: Polytable SNP refval disagrees with refprot FASTA (Pre-Core, S13T): table=S fasta=T
 ```
 
-However, this is nothing to worry about. The warning is printed to alert the user to data-entry issues. But there is no reason why the reference genome does not contain the 'mutation' rather than the 'wild-type' value at any given position.
+However, this is nothing to worry about. The warning is printed to alert the user to possible data-entry issues. But there is no reason why the reference genome does not contain the 'mutation' rather than the 'wild-type' value at any given position.
 
 ## Licence
 
