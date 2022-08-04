@@ -37,7 +37,7 @@ sampletable_tsvfile : Table of samples with 1 header row and fields
 
 ```
 cd WORKING_DIR
-git clone XXXX
+git clone git@github.com:camilla-ip/polyscan.git
 ```
 
 ## Examples
