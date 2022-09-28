@@ -97,7 +97,7 @@ dataid | samplename_clin_final | Study_number | Diagnosis | HCc
 
 Example row:
 ```
-wtchgD00007502 | B1-1_11611878_SV | 11611878 (SV) | Hcc | 1
+wtchgD00007502 | HCC-29 | SNanon29 | HCC | 1
 ```
 
 where
